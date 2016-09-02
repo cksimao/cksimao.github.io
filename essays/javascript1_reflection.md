@@ -1,5 +1,12 @@
-            Javascript 1 Reflection
-
+---
+layout: essay
+type: essay
+title: Javascript 1 Reflection
+date: 2016-09-01
+labels:
+  - Software Engineering
+  - Javascript
+---
     This is my first time learning Javascript. Overall, the programming language, so far, is simple enough to understand. I had previously programmed using Java, C, and C++ before which is very similar to Javascript.
 The previously mentioned programming languages are very similar. The formatting for loops, function definitions and calls, and many other parts of Javascript are especially similar to Java. The only difference that
 majorly impacts the way I view Javascript is the way that variables are assigned. In Java, there are different types of variables such as float, int, and double. In Javascript all variables can be created using let for
