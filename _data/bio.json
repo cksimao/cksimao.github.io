@@ -23,24 +23,24 @@
       {
         "network": "linkedin",
         "username": "cksimao",
-        "url": "www.linkedin.com/in/cameron-simao"
+        "url": "https://www.linkedin.com/in/cameron-simao"
       },
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "Website Design",
       "keywords": [
 
       ]
     },
     {
-      "name": "",
+      "name": "Video Games",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Networks",
       "keywords": [
       ]
     }
@@ -53,9 +53,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -63,10 +61,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -84,27 +79,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii (State of Hawaii)",
+      "position": "Athletic Maintenance Crew Member",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Landscaping and taking care of some of the athletic areas on Lower Campus",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Working Softball Games",
+        "Working at graduation"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Kauai Memorial Gardens",
+      "position": "Office Worker",
+      "website": "",
+      "startDate": "2016-06-06",
+      "endDate": "2016-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Input contracts into the database",
+        "Answer phone and email responses from customers and business partners"
+        ""
       ]
     }
   ],
