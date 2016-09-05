@@ -100,50 +100,31 @@
       "highlights": [
         "Input contracts into the database",
         "Answer phone and email responses from customers and business partners"
-        
+        "Assist in the transportation of loved ones to the mortuary for proper services"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Ka Papa Loʻi ʻo Kānewai",
+      "website": "http://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+      "position": "Caretaker's assistant",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Help around to allow for the Taro to grow properly",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Bring rocks from the river to help build a dry-stack rock wall near the walkway",
+        "Participate in groups during the first Saturday events"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Nā Hoʻokama a Pauahi Scholarship",
       "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "awarder": "Kamehameha Schools",
+      "summary": "The Nā Hoʻokama a Pauahi Program (NHAP) is a need-based scholarship available to students pursuing an undergraduate or graduate degree at an accredited post-high institution in the United States recognized by Kamehameha Schools (KS)"
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
