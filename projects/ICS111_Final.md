@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/?.jpg
+image: images/l.jpg
 title: Object Oriented Project
 permalink: projects/ICS111_Final
 date: 2015
@@ -11,7 +11,7 @@ labels:
 summary: For ICS 212 the whole class had to create a bank application using the previous bank application, except we changed it to C++.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/?.jpg">
+<img class="ui medium right floated rounded image" src="/images/l.jpg">
 
 This project was that final project for ICS 111. We worked in groups to create a video of objects moving around the screen. The project uses txt files to give directions on how the objects on the screen should move.
 
