@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96818",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -121,7 +121,7 @@
   "awards": [
     {
       "title": "Nā Hoʻokama a Pauahi Scholarship",
-      "date": "2013-Present",
+      "date": "2013-2017",
       "awarder": "Kamehameha Schools",
       "summary": "The Nā Hoʻokama a Pauahi Program (NHAP) is a need-based scholarship available to students pursuing an undergraduate or graduate degree at an accredited post-high institution in the United States recognized by Kamehameha Schools (KS)"
     },
