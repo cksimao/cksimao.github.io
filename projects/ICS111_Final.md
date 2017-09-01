@@ -8,7 +8,7 @@ date: 2015
 labels:
   - ICS 111
   - Java
-summary: For ICS 212 the whole class had to create a bank application using the previous bank application, except we changed it to C++.
+summary: For ICS 111, we had to form groups and combine our code to create a final project.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/l.jpg">
