@@ -10,4 +10,3 @@ labels:
 ---
 <p style="text-align: center;">
 ## Reasons For Software Engineering
-</p>
