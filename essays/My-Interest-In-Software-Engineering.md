@@ -8,5 +8,6 @@ labels:
   - Learning Goals
   - Interests
 ---
-<p style="text-align: center;">
+<p style="text-align: center">
 ## Reasons For Software Engineering
+</p>
