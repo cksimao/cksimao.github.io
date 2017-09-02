@@ -6,7 +6,7 @@ date: 2017-09-01
 labels:
   - Software Engineering
   - Javascript
-  -Athletic Software Engineering
+  - Athletic Software Engineering
 ---
 ## Javascript and Athletic Software Engineering
 This is my first time learning Javascript. So far, the programming language is simple enough to understand. I had previously programmed using Java, C, and C++, which are very similar to Javascript. The formatting for loops, function definitions and calls, and many other parts of Javascript are especially similar to Java. The only difference that majorly impacts the way I view Javascript is the way that variables are assigned. In Java, there are different types of variables such as float, int, and double. In Javascript all variables can be created using let for variables that change within the code and cons for the variables that stay the same. Overall, Javascript seems easier to use than most of the other programming languages that I have dealt with.
