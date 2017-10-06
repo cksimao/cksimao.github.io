@@ -9,7 +9,7 @@ labels:
   - UI Frameworks
   - Semantic UI
 ---
-##Semantic UI Easy or Hard to Use?
+## Semantic UI Easy or Hard to Use?
 
   Although UI Frameworks is as hard to learn as a new programming language, there are many great reasons to use them. Using a UI Framework like Semantic UI allows the user to work fast and efficient. Although it gives a headache when learning to use them, Frameworks saves time in the long run. In the case of Semantics UI, there are many lines of code that is easily added, such as a gridline or buttons. It is also very easy to debug compared to coding normally. Using a theme is easier because Semantics UI makes the theme easier to inherit by the rest of the code.
   
