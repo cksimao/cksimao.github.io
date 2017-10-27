@@ -13,7 +13,7 @@ labels:
 ## A Falling Meteor
 Learning Meteor takes a lot of time and effort. Trying to learn as much as possible of Meteor was like getting hit on the head with “a small body of matter from outer space that enters the earth’s atmosphere, becoming incandescent as a result of friction and appearing as a streak of light.” Using Meteor was frustrating in many aspects.
 
-Using Meteor was difficult because there were many files that were needed to be sorted through while creating the website. There were files on the client and server sides, imported files, api files, and more. On top of that, in many of the index files, import calls were needed for each file that was being used by the index.js file in each of the main folders. The thing I disliked the most is that with one mistake, the whole website can crash and loses its ability to run.
+Using Meteor was difficult because there were many files that were needed to be sorted through while creating the website. There were files on the client and server sides, imported files, api files, and more. On top of that, in many of the index files, import calls were needed for each file that was being used by the index.js file in each of the main folders. The thing I disliked the most is that with one mistake, the whole website crashes and loses its ability to run.
 
 There were also easy parts of using Meteor. I liked the refresh aspect for when changes were made in the code. The website automatically included the changes onto the live site. Also, there were templates for a lot of the code that I needed to create the website. It was very simple to set up the app itself and download all of the necessary files to begin coding.
 
