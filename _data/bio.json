@@ -53,7 +53,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML"
       ]
     },
     {
@@ -62,6 +63,9 @@
       "keywords": [
         "MacOS",
         "g++",
+        "IntelliJ"
+        "Meteor"
+        "MongoDB"
       ]
     }
   ],
