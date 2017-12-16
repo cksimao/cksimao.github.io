@@ -63,8 +63,8 @@
       "keywords": [
         "MacOS",
         "g++",
-        "IntelliJ"
-        "Meteor"
+        "IntelliJ",
+        "Meteor",
         "MongoDB"
       ]
     }
