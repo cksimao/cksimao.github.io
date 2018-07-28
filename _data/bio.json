@@ -62,21 +62,24 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "g++",
         "IntelliJ",
         "Meteor",
-        "MongoDB"
+        "MongoDB",
+        "Eclipse",
+        
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.4",
       "courses": [
       ]
     }
@@ -107,28 +110,6 @@
         "Assist in the transportation of loved ones to the mortuary for proper services"
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "Ka Papa Loʻi ʻo Kānewai",
-      "website": "http://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
-      "position": "Caretaker's assistant",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "summary": "Help around to allow for the Taro to grow properly",
-      "highlights": [
-        "Bring rocks from the river to help build a dry-stack rock wall near the walkway",
-        "Participate in groups during the first Saturday events"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nā Hoʻokama a Pauahi Scholarship",
-      "date": "2013-2017",
-      "awarder": "Kamehameha Schools",
-      "summary": "The Nā Hoʻokama a Pauahi Program (NHAP) is a need-based scholarship available to students pursuing an undergraduate or graduate degree at an accredited post-high institution in the United States recognized by Kamehameha Schools (KS)"
-    },
   ],
   "references": [
     {
