@@ -111,6 +111,22 @@
       ]
     }
   ],
+    "club": [ 
+    {
+      "organization": "American Society of Civil Engineers Student Chapter at Manoa", 
+      "website": "http://asceuhm.weebly.com/", 
+      "position": "Fundraising Co-chair", 
+      "startDate": "2017-08", 
+      "endDate": "2018-05", 
+      "summary": "Create and manage fundraisers for the club", 
+      "highlights": [ 
+        "Call or email companies to schedule fundraisers",
+        "Schedule locations to hold funraisers",
+        "Run fundraiser events",
+        "Manage money (profits)"
+      ]
+    }
+  ], 
   "references": [
     {
       "name": "Available upon request",
