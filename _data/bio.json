@@ -136,35 +136,6 @@
       ]
 
     },
-
-    {
-
-      "organization": "",
-
-      "website": "",
-
-      "position": "Professional organization involvement",
-
-      "startDate": "",
-
-      "endDate": "",
-
-      "summary": "",
-
-      "highlights": [
-
-        "Chair, ACM Manoa, 2016-Present",
-
-        "Member, IEEE Student Branch, 2014-Present",
-
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-
-      ]
-
-    }
-
-  ],
-    "club": [ 
     {
       "organization": "American Society of Civil Engineers Student Chapter at Manoa", 
       "website": "http://asceuhm.weebly.com/", 
@@ -177,7 +148,7 @@
         "Schedule locations to hold funraisers",
         "Run fundraiser events",
         "Manage money (profits)"
-      ]
+        ]
     }
   ], 
   "references": [
